@@ -1,0 +1,30 @@
+# Core Data Science Libraries
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+imbalanced-learn==0.12.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Jupyter Notebook
+jupyter==1.0.0
+notebook==7.2.0
+ipykernel==6.29.4
+
+# Model Persistence
+joblib==1.4.2
+pickle-mixin==1.0.2
+
+# Utilities
+tqdm==4.66.4
+openpyxl==3.1.2
+
+# Optional: Hyperparameter Tuning
+optuna==3.6.1
